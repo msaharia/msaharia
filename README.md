@@ -5,3 +5,5 @@ I am a Hydrologist and an Assistant Professor of Civil Engineering at the [India
 Since 2020, I have started setting up the HydroSense Lab in IITD, dedicated primarily to disaster modeling and mitigation. Currently, we are interested in developing techniques and systems for forecasting natural hazards such as floods, droughts, and landslides. 
 
 Most of my programming nowadays happens on [IITD Gitlab](git.iitd.ac.in/). 
+
+I am currently recruiting at all levels for our research group - Postdocs, PhD, Masters, UG interns. Please email me if you think you are a good fit. 
